@@ -1,0 +1,31 @@
+deb http://cn.archive.ubuntu.com/ubuntu/ trusty main restricted universe multiverse
+deb http://cn.archive.ubuntu.com/ubuntu/ trusty-security main restricted universe multiverse
+deb http://cn.archive.ubuntu.com/ubuntu/ trusty-updates main restricted universe multiverse
+deb http://cn.archive.ubuntu.com/ubuntu/ trusty-backports main restricted universe multiverse
+##测试版源
+deb http://cn.archive.ubuntu.com/ubuntu/ trusty-proposed main restricted universe multiverse
+# 源码
+deb-src http://cn.archive.ubuntu.com/ubuntu/ trusty main restricted universe multiverse
+deb-src http://cn.archive.ubuntu.com/ubuntu/ trusty-security main restricted universe multiverse
+deb-src http://cn.archive.ubuntu.com/ubuntu/ trusty-updates main restricted universe multiverse
+deb-src http://cn.archive.ubuntu.com/ubuntu/ trusty-backports main restricted universe multiverse
+##测试版源
+deb-src http://cn.archive.ubuntu.com/ubuntu/ trusty-proposed main restricted universe multiverse
+# Canonical 合作伙伴和附加
+deb http://archive.canonical.com/ubuntu/ trusty partner
+deb http://extras.ubuntu.com/ubuntu/ trusty main
+
+
+
+
+
+deb http://mirrors.163.com/ubuntu/ lucid main universe restricted multiverse
+deb-src http://mirrors.163.com/ubuntu/ lucid main universe restricted multiverse
+deb http://mirrors.163.com/ubuntu/ lucid-security universe main multiverse restricted
+deb-src http://mirrors.163.com/ubuntu/ lucid-security universe main multiverse restricted
+deb http://mirrors.163.com/ubuntu/ lucid-updates universe main multiverse restricted
+deb http://mirrors.163.com/ubuntu/ lucid-proposed universe main multiverse restricted
+deb-src http://mirrors.163.com/ubuntu/ lucid-proposed universe main multiverse restricted
+deb http://mirrors.163.com/ubuntu/ lucid-backports universe main multiverse restricted
+deb-src http://mirrors.163.com/ubuntu/ lucid-backports universe main multiverse restricted
+deb-src http://mirrors.163.com/ubuntu/ lucid-updates universe main multiverse restricted
